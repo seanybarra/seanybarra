@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<div>
-    <figure><embed src="https://wakatime.com/share/@Sean_paul/a7e24f61-59df-4491-9956-a9846a5f3d6e.svg"></embed></figure>
-</div>
+## My name is sean ybarra
 <!--
 **seanybarra/seanybarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
