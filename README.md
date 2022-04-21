@@ -4,8 +4,9 @@ Hi, my name is Sean Ybarra. Born and raised Californian software developer.
 Currently interning for [Internet Brands](https://www.internetbrands.com/) which is the company that currently owns [WebMD](https://www.webmd.com/).
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanybarra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+## :trophy: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanybarra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **seanybarra/seanybarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
