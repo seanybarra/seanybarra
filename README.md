@@ -1,12 +1,20 @@
-### :octocat: Welcome to my GitHub :computer:
+
+# :octocat: Welcome to my GitHub :computer:
 ---
-Hi, my name is Sean Ybarra. Born and raised Californian software developer.
-Currently interning for [Internet Brands](https://www.internetbrands.com/) which is the company that currently owns [WebMD](https://www.webmd.com/).
+<!-- About Me section -->
+# About Me
+- Born and raised in Los Angeles Californian :cityscape:
+- Software engineer intern at [Internet Brands](https://www.internetbrands.com/) :technologist:
+- 
 
 
 ---
+<!-- My Stats section -->
 ## :trophy: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanybarra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/seanybarra/seanybarra">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanybarra&layout=compact&theme=dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=seanybarra&theme=dark">
+</a>
 <!--
 **seanybarra/seanybarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
