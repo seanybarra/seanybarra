@@ -11,7 +11,7 @@
 ---
 <!-- My Stats section -->
 ## :trophy: My Stats :
-<a href="">
+<a href="https://wakatime.com/@Sean_paul">
     <img align="middle" src="(https://github-readme-stats.vercel.app/api/wakatime?username=Sean_paul">
 </a>
 <a href="https://github.com/seanybarra/seanybarra">
