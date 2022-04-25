@@ -11,11 +11,9 @@
 ---
 <!-- My Stats section -->
 ## :trophy: My Stats :
-<div style="width: 100%; text-align: center;">
 <a style="href="https://wakatime.com/@Sean_paul">
     <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Sean_paul">
 </a>
-</div>
 <br />
 <a href="https://github.com/seanybarra/seanybarra">
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanybarra&layout=compact&theme=dark">
