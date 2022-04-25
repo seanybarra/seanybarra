@@ -12,8 +12,8 @@
 <!-- My Stats section -->
 ## :trophy: My Stats :
 <a href="https://github.com/seanybarra/seanybarra">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanybarra&layout=compact&theme=dark">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=seanybarra&theme=dark">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanybarra&layout=compact&theme=dark">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=seanybarra&theme=dark">
 </a>
 <!--
 **seanybarra/seanybarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
