@@ -3,22 +3,16 @@
 ---
 <!-- About Me section -->
 ## About Me
-- Born and raised in Los Angeles California :cityscape:
-- Software engineer intern at [Internet Brands](https://www.internetbrands.com/) :technologist:
-- Science and Math enthusiast :alembic::test_tube::dna:
-- Avid problem solver :jigsaw:
+Born and raised in Los Angeles California. I am currently a software engineer intern at [Internet Brands](https://www.internetbrands.com/).An avid problem solver, and science/math enthusiast. One day I will make a difference in the world:earth_americas:
 
 ## Interests
-- Web development Programming :minidisc:
+- full stack web development Programming :minidisc:
 - Reading :books:
 - Electronics :zap:
 - Hiking and Camping :camping:
 
-## Goals:dart::
+## Current Goal:dart::
 - Obtain a full time position as a software engineer
-- Learn React
-- Obtain either Network+ or CCNA cert
-- Learn Spanish or French
  
 
 
