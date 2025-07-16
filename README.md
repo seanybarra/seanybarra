@@ -23,7 +23,7 @@ If you would like to connect add me on here I would be completely down to collab
     <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Sean_paul&theme=merko">
 </a>
 <a href="https://github.com/seanybarra/seanybarra">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanybarra&layout=compact&theme=dark">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanybarra&layout=compact&theme=merko">
 </a>
 </div>
 
