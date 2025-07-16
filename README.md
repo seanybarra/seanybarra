@@ -1,24 +1,23 @@
-
-# :octocat: Welcome to my GitHub :computer:
----
 <!-- About Me section -->
-## About Me
-Born and raised in Los Angeles California. I am currently a software engineer intern at [Internet Brands](https://www.internetbrands.com/).An avid problem solver, and science/math enthusiast. One day I will make a difference in the world:earth_americas:
+### Hello, how's it going? :man_technologist:
 
-## Interests
-- full stack web development Programming :minidisc:
-- Reading :books:
-- Electronics :zap:
-- Hiking and Camping :camping:
+I'm Sean, a software developer based in Los Angeles.
 
-## Current Goal:dart::
-- Obtain a full time position as a software engineer
- 
+More specifically I've been working as a Frontend Engineer since 2021.
+
+Currently teaching myself React, I've been really motivated this year to start creating more. My long term goal is to be a Full Stack Developer, but above all else I really want to be somebody that inspires others to keep learning, creating, and being curious.
+
+Outside of work, I read a lot if I'm not looking at a computer screen I'm looking at my Kindle. I also brew mead and beer, I've always liked the brewery/bar scene because it brings people together from all walks of life. I am also working on getting another degree in Electrical Engineering or some other science related field, I just like learning and school scratches my achievement hunter tendecies.
+
+I hope to have a portfolio site done sometime this year hopefully.
+
+If you would like to connect add me on here I would be completely down to collaborating if any open projects were to arise.
+
 
 
 ---
 <!-- My Stats section -->
-## :trophy: My Stats :
+## My Stats :
 <div style="width: 100%;">
 <a href="https://wakatime.com/@Sean_paul">
     <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Sean_paul">
@@ -27,6 +26,5 @@ Born and raised in Los Angeles California. I am currently a software engineer in
 <br />
 <a href="https://github.com/seanybarra/seanybarra">
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanybarra&layout=compact&theme=dark">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=seanybarra&theme=dark">
 </a>
 
