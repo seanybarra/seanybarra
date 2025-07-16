@@ -20,7 +20,7 @@ If you would like to connect add me on here I would be completely down to collab
 ## My Stats :
 <div style="width: 100%;">
 <a href="https://wakatime.com/@Sean_paul">
-    <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Sean_paul&theme=dark">
+    <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Sean_paul&theme=radical">
 </a>
 <a href="https://github.com/seanybarra/seanybarra">
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanybarra&layout=compact&theme=dark">
